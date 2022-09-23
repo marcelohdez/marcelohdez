@@ -1,4 +1,8 @@
-### Hi there 👋
+### Marcelo Hernandez
+
+- 💬 `Pronouns = he/him;`
+- 🌱 Currently learning Java and Rust!
+- 📫 Inquiries inbox: marcelohdez.inq@gmail.com
 
 <!--
 **marcelohdez/marcelohdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
