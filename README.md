@@ -1,13 +1,20 @@
 # Marcelo Hernandez
+
 <div>
-  <a href="https://www.linkedin.com/in/marcelo-hernandez-lopez-9b3724230/">
+  <linkedin href="https://www.linkedin.com/in/marcelohdez/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
+  </linkedin>
+  <a href="https://www.marcelohdez.com">
+    <img src="https://img.shields.io/badge/🌍-Website-blueviolet?&style=for-the-badge" alt="Website Badge">
   </a>
 </div>
 
-## A little about me...
-- 💬 `Pronouns = "he/him";`
-- 🌱 Currently learning Java, Rust, and C++!
-- ⚡ Passionate hispanic student at **Miami Dade College's _Kendall Campus_**.
-- 🔭 Majoring in Computer Programming in Internet of Things 🧑🏻‍💻.
-- 📫 Inquiries inbox: marcelohdez.inq@gmail.com
+## About Me
+
+- 📚 Currently attending **Miami Dade College** _(Kendall)_
+- 🔭 Majoring in a Computer Science _Associate's in Arts_
+- 💬 Bilingual: English and Spanish
+- 🧑‍💻 Proficient in Java, Rust, and C/C++!
+- 🧐 Knowledgeable in Bash scripting and Linux
+
+📫 Inquiries: <marcelohdez.inq@gmail.com>
