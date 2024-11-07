@@ -11,7 +11,7 @@
 
 ## About Me
 
-- 📚 Currently attending **Miami Dade College** _(Kendall)_
+- 📚 Currently attending **Florida International University**
 - 🔭 Majoring in a Computer Science _Associate's in Arts_
 - 💬 Bilingual: English and Spanish
 - 🧑‍💻 Proficient in Java, Rust, and C/C++!
