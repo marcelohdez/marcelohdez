@@ -12,9 +12,8 @@
 ## About Me
 
 - 📚 Currently attending **Florida International University**
-- 🔭 Majoring in a Computer Science _Associate's in Arts_
-- 💬 Bilingual: English and Spanish
-- 🧑‍💻 Proficient in Java, Rust, and C/C++!
+- 🔭 Studying for a Computer Science BS
+- 🧑‍💻 Proficient in Java, Rust, and C/C++
 - 🧐 Knowledgeable in Bash scripting and Linux
 
 📫 Inquiries: <marcelohdez.inq@gmail.com>
